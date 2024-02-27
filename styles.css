@@ -33,12 +33,12 @@ body {
 }
 
 .body-left p:first-child {
-	margin-top: x;
+	margin-top: 10px;
 }
 
 .body-left,
 .body-rigth {
-	padding: x;
+	padding: 10px;
 }
 
 input {
@@ -47,10 +47,11 @@ input {
 }
 
 .postcard-footer {
-	text-align: x;
+	text-align: center;
 }
 
 button {
 	background-color: gray;
-	padding: x;
+	padding: 5px;
+	margin-left: 120px;
 }
